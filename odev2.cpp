@@ -1,14 +1,4 @@
-﻿/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**			        BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**		            PROGRAMLAMAYA GİRİŞİ DERSİ
-**
-**			        ÖDEV NUMARASI…...: 2
-**				    ÖĞRENCİ ADI......: Rabia Abdioğlu
-**				    ÖĞRENCİ NUMARASI.: B201210302
-**				    DERS GRUBU………...…: 1-A    
-****************************************************************************/
+
 
     #include <iostream>
     #include <string>
